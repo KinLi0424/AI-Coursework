@@ -1,0 +1,4 @@
+mazelib
+matplotlib
+numpy
+pandas
